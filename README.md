@@ -1,4 +1,4 @@
-# 什么是V2ray - 11月8日19.7M/S|免费Shadowrocket节点/Singbox节点/V2ray节点/SSR节点/Clash节点订阅链接分享  更新时间 2025-11-08 10:16:30
+# 什么是V2ray - 11月14日22.4M/S|免费Shadowrocket节点/Clash节点/V2ray节点/Singbox节点/SSR节点订阅链接分享  更新时间 2025-11-14 00:32:27
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://whatisv2ray.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://whatisv2ray.github.io/uploads/2025/11/0-20251108.yaml
-- https://whatisv2ray.github.io/uploads/2025/11/1-20251108.yaml
-- https://whatisv2ray.github.io/uploads/2025/11/2-20251108.yaml
-- https://whatisv2ray.github.io/uploads/2025/11/3-20251108.yaml
-- https://whatisv2ray.github.io/uploads/2025/11/4-20251108.yaml
+- https://whatisv2ray.github.io/uploads/2025/11/0-20251114.yaml
+- https://whatisv2ray.github.io/uploads/2025/11/1-20251114.yaml
+- https://whatisv2ray.github.io/uploads/2025/11/2-20251114.yaml
+- https://whatisv2ray.github.io/uploads/2025/11/3-20251114.yaml
+- https://whatisv2ray.github.io/uploads/2025/11/4-20251114.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://whatisv2ray.github.io/uploads/2025/11/0-20251108.txt
-- https://whatisv2ray.github.io/uploads/2025/11/1-20251108.txt
-- https://whatisv2ray.github.io/uploads/2025/11/2-20251108.txt
-- https://whatisv2ray.github.io/uploads/2025/11/3-20251108.txt
-- https://whatisv2ray.github.io/uploads/2025/11/4-20251108.txt
+- https://whatisv2ray.github.io/uploads/2025/11/0-20251114.txt
+- https://whatisv2ray.github.io/uploads/2025/11/1-20251114.txt
+- https://whatisv2ray.github.io/uploads/2025/11/2-20251114.txt
+- https://whatisv2ray.github.io/uploads/2025/11/3-20251114.txt
+- https://whatisv2ray.github.io/uploads/2025/11/4-20251114.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://whatisv2ray.github.io/uploads/2025/11/20251108.json
+- https://whatisv2ray.github.io/uploads/2025/11/20251114.json
 
 ## 更多Clash节点订阅 ：
 
